@@ -1,0 +1,33 @@
+# 04 — CRIVO E RANQUEAMENTO
+
+> Reúne os PRESENTES do agente 02 e as contradições do agente 03. Aplica materialidade (muda decisão?) e ancoragem (tem base?). Ordena por impacto.
+
+## Relatório principal (achados materiais, ranqueados por decisão)
+
+| # | Achado | Origem | Documento + cláusula | Decisão | Âncora | Precedente | Contra-argumento provável |
+|---|---|---|---|---|---|---|---|
+| 1 | **Indenização de bens reversíveis negada no advento do termo** — Cl. 42.2 nega indenização ao fim do prazo, contrariando a premissa do TR ("reembolsar valores não depreciados") e o art. 36 | Contradição 1 + C3 | Contrato Cl. 42.2; TR item 4; Anexo XI Cl. 8ª | **Impugnar / precificar** | *Dispositivo expresso*: **art. 36 da Lei n.º 8.987/1995** (indenização das parcelas de investimento em bens reversíveis ainda não amortizadas); art. 35, §§ 1.º–4.º | art. 36 confirmado (Planalto). Precedente TCU/STJ específico de RSU **não localizado** em busca direta | "Modelagem amortiza tudo em 30 anos; não há saldo a indenizar" |
+| 2 | **Capital social mínimo acima do teto legal** — R$ 56.613.517,80 = 10% do teto do Anexo II (566 mi), não dos R$ 558.596.000 do item 13; excede 10% do valor estimado; base deveria ser os investimentos (R$ 93,1 mi) | B3 + Contradição 4 + F4 | Edital item 119.d × item 13 × Anexo II | **Impugnar** | *Dispositivo expresso*: **art. 69, §4.º, da Lei n.º 14.133/2021** (teto de 10%); **TCE-SP Súmula 43** (base = investimentos na concessão); Súmula 275/TCU | Súmula 275/TCU e TCE-SP Súmulas 43 e 48 confirmadas (web). 10% de 558,596 mi = 55.859.600 < 56.613.517,80 | "É 10% do somatório das contraprestações; capital integralizado é lícito (Súmula 48 TCE-SP)" |
+| 3 | **Vida útil do aterro × prazo × reversão com 5 anos** — vida projetada (30,79 anos) só cobre a concessão; exige-se reverter com 5 anos residuais e a receita extraordinária (resíduos de terceiros) encurta a vida | C3 + Contradição 2 | TR vida útil; Anexo XI Cl. 8ª; Contrato Cl. 26 | **Precificar / esclarecer** | *Construção interpretativa*: art. 35/36 da Lei n.º 8.987/1995 + condicionantes da LO | (mesma âncora do item 1) | "Expansão do aterro é encargo/risco do privado, remunerado pela contraprestação" |
+| 4 | **Receitas extraordinárias: certas para a modicidade, álea integral sem reequilíbrio** — induzidas a reduzir a contraprestação (item 227) mas "aleatórias" sem recomposição (Cl. 26.10/26.11) e sujeitas a aprovação prévia | C1 | Edital item 227; Contrato Cl. 26 | **Precificar** | *Dispositivo expresso*: **art. 11 da Lei n.º 8.987/1995** | art. 11 confirmado (Planalto) | "Acessórias e aleatórias por natureza; não integram a equação" |
+| 5 | **Risco cambial integral ao privado** — Anexo IX (linha 31) aloca câmbio ao privado sem recomposição, relevante se houver CAPEX em equipamento importado (CTR) | D9 | Anexo IX, linha 31; Contrato Cl. 27.3 | **Precificar / alocar-negociar** | *Construção interpretativa*: matriz de riscos; art. 5.º, III, da Lei n.º 11.079/2004 | — | "Risco de mercado ordinário do parceiro privado" |
+| 6 | **Banda de demanda estreita (±5%)** — variação de RSU além de 5% depende de leitura do art. 27.3 para reequilibrar; abaixo disso, risco do privado | D7 | Anexo IX, linha 21; Contrato Cl. 27.3 | **Alocar-negociar / precificar** | *Construção interpretativa*: art. 9.º da Lei n.º 8.987/1995 | — | "Banda objetiva; excedente reequilibra" |
+| 7 | **Gap de caixa na transição** — contraprestação só da OS; CAPEX e mobilização na transição sem receita; custo da garantia de adimplemento 100% do privado (Cl. 24.11) | C5 + Cl. 24.11 | Contrato Cl. 12, 23.1, 24.11 | **Precificar** | *Construção interpretativa*: equação econ.-fin.; art. 9.º/10 da Lei n.º 8.987/1995 | — | "Custos embutíveis na proposta" |
+| 8 | **Competência sancionatória/fiscalizatória ambígua** — ARSESP (Cl. 37) vs. Secretaria Municipal (Anexo V), afetando o procedimento de penalidades e o redutor | Contradição 6 / F2 | Anexo V item 1.1.3 × Contrato Cl. 37 | **Esclarecer** | *Construção interpretativa*: art. 23 da Lei n.º 8.987/1995; art. 25 da Lei n.º 11.445/2007 | — | "ARSESP regula; Município fiscaliza por delegação" |
+| 9 | **Exigência de atestado de "todos os itens" por cada consorciada** — item 114 pode obstar a lógica do consórcio, embora admita somatório | B7 | Edital, item 114 | **Esclarecer** | *Construção interpretativa*: art. 5.º e art. 67, §10, da Lei n.º 14.133/2021 | Acórdão 2444/2012-TCU-Plenário (acervo de grupo) | "A parte final admite somatório de quantitativos" |
+| 10 | **Redutor por desempenho e Verificador Independente sem custo previsto** — redutor compõe contraprestação e reajuste (FA); verificador independente citado sem definir contratante/custo | E1 + E3 | Contrato Cl. 23.2; Anexo V | **Precificar** | *Dispositivo expresso* (redutor): art. 6.º, §1.º, da Lei n.º 11.079/2004; (verificador) *hipótese a confirmar* | — | "Incentivo a desempenho é legítimo" |
+| 11 | **Descasamento do marco de reajuste** — reajuste corre da assinatura; contraprestação da OS | Contradição 5 | Contrato Cl. 25.2 × 23.1 | **Esclarecer / precificar** | *Construção interpretativa*: art. 5.º, §1.º, da Lei n.º 11.079/2004 | — | "Ajuste de compensação previsto" |
+| 12 | **Sustentabilidade fiscal (RCL / LRF) não demonstrada nos autos** | C10 (hipótese) | Contrato Cl. 22.1 (TMRSU) | **Esclarecer** | *Hipótese a confirmar*: art. 28 da Lei n.º 11.079/2004 c/c LRF | — | "Estudo e lei autorizativa preexistentes (item 2 do preâmbulo)" |
+
+## Apêndice "Menores" (lista nua)
+
+- F1 — remissões cruzadas inconsistentes no contrato (Cl. 28/29: "48" vs "49"; Cl. 42: "39.2", "38.3").
+- F3 — tabela de contraprestação mensal (anos 1–30) em branco `[•]` (variável da proposta) e campos `[•]` do Termo de Recebimento (Anexo XI).
+- "R$ R$" duplicado nos itens 72 (garantia de proposta) e no Anexo II (teto de contraprestações) — erro de digitação.
+- E4 — galpão de triagem da cooperativa (CORESP) sem detalhamento de custo/cronograma (sobe a precificar apenas se o caderno técnico não suprir).
+- Capítulo V do índice grafado "HOMOLOGÃO" (typo de "HOMOLOGAÇÃO").
+
+## Itens descartados / AUSENTES confirmados (não vão ao relatório)
+A1, A2, A3, A4, A5, A6, A7, B1, B2, B4, B5, B6, B8, C4, C7, C9, D1, D6, D8, D10, E2, E5 — verificados como conformes (ver agente 02). Destaque positivo: matriz aloca **risco regulatório, legislativo, tributário e força maior ao Poder Público**, e há **garantia de adimplemento robusta** (Conta Vinculada + Conta Garantia, art. 8.º da Lei n.º 11.079/2004).
+
+> **Fallback de portal**: as confirmações de Súmula 263/275 do TCU e das Súmulas 43/48 do TCE-SP foram obtidas em busca aberta; antes da peça formal, validar a redação vigente em pesquisa.apps.tcu.gov.br e tce.sp.gov.br.
